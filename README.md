@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hola, Soy Juan Carlos y...
 
 <!--
 **JuankaEsMa/JuankaEsMa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## He trabajado en distintos proyectos
+# Léeme Esta
+Un chat que usa Firebase que simplemente deja manda mensajes si contiene un insulto en el Mensaje
+<img src="icono_app.png"/>
+# ToDoList
+Una aplicación que te deja crear listas y tareas a tu gusto.
+<img src="toDoListIcono.png"/>
