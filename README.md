@@ -20,4 +20,4 @@ Un chat que usa Firebase que simplemente deja manda mensajes si contiene un insu
 <img src="icono_app.png"/>
 # ToDoList
 Una aplicación que te deja crear listas y tareas a tu gusto.
-<img src="toDoListIcono.png"/>
+<img src="ToDoListIcono.png"/>
